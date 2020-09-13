@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "TiendeoCoreLite",
+        "repositoryURL": "https://github.com/Tiendeo/coreLiteApps.git",
+        "state": {
+          "branch": null,
+          "revision": "cb31b5ae2b568943f9e622373087f40b555503ec",
+          "version": "1.5.3-beta13"
+        }
+      }
+    ]
+  },
+  "version": 1
+}

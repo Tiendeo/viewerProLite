@@ -1,0 +1,11 @@
+framework module ViewerPro {
+  umbrella header "ViewerPro.h"
+
+  export *
+  module * { export * }
+}
+
+module ViewerPro.Swift {
+    header "ViewerPro-Swift.h"
+    requires objc
+}
